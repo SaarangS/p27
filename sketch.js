@@ -37,7 +37,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background(255);
+  background(211,211,211);
   
   rope1.display()
   rope2.display()
